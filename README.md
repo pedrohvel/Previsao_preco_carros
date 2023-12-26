@@ -38,4 +38,3 @@ Realizamos uma etapa de tunagem do modelo, explorando diferentes combinações d
 O projeto forneceu uma base sólida, mas sempre há espaço para melhorias. Planejo explorar outras técnicas de modelagem, como regressão polinomial e modelos de machine learning mais avançados, para ver como eles se comparam ao modelo linear.
 
 Se você estiver interessado em mais detalhes ou quiser discutir as nuances do projeto, ficarei feliz em compartilhar mais informações. Acredito que o aprendizado contínuo é a chave para aprimorar nossas habilidades de ciência de dados. 🚀
-```
