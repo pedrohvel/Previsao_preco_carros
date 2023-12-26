@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de como você pode criar um arquivo README.md para o seu projeto no GitHub. Note que a imagem não pode ser visualizada diretamente no bloco de código, mas será exibida corretamente quando o markdown for renderizado no GitHub.
-
-```markdown
 # Previsão de Preços de Carros com Regressão Linear 📈
 
 Olá pessoal! 👋
